@@ -2,7 +2,7 @@
 
 # Paper Review: Symmetry Driven Hyper Feature GCN for Skeleton-Based Gait Recognition
 
-## Reviewer Information
+
 
 ## Abstract
 This paper addresses the challenges of skeleton-based gait recognition, particularly focusing on overcoming large intra-class wardrobe changes and posing differences in various camera settings.
